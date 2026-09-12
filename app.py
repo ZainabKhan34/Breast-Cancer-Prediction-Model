@@ -30,12 +30,12 @@ st.sidebar.info(
 
 st.sidebar.markdown("---")
 st.sidebar.markdown("### 👨‍💻 About Me")
-st.sidebar.write("**Mirza Yasir Abdullah Baig**")
+st.sidebar.write("**Zainab Khan**")
 st.sidebar.markdown(
     """
-    - [🌐 Kaggle](https://www.kaggle.com/mirzayasirabdullah07)  
-    - [💼 LinkedIn](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)  
-    - [💻 GitHub](https://github.com/mirzayasirabdullahbaig07)  
+    
+    - [💼 LinkedIn](https://www.linkedin.com/in/zainabkhan45/)  
+    
     """
 )
 
